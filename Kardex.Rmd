@@ -1,0 +1,62 @@
+---
+title: "Kardex"
+author: "Galo Gomez Montero"
+date: "29 de agosto de 2016"
+output: html_document
+theme: cerulean
+---
+
+##Otoño 2013
+
+###Lista de materias
+* Introducción a la Profesión actuarial 6
+* DHPC 9
+* Conceptos de cálculo 10
+* Matemáticas básicas 7
+* Problemas de matemáticas básicas 7
+
+##Primavera 2014
+
+###Lista de materias
+* Programación actuarial I 7
+* Teoria de ecuaciones 9
+* Formación humana y social 10
+* Teoría del interés 8
+
+##Otoño 2014
+
+### Lista de materias
+* Microeconomía 10
+* Lengua extrangera I 9
+* Contabilidad General 7 
+* Cálculo diferencial 8
+* Teoria del interes II 7
+
+##Primavera 2015
+
+##Lista de materias
+* Sistema Financiero Mexicano 10
+* Macroeconomia 9
+* Lengua extranjera II 8
+* Calculo Integral 7
+* Algebra Lineal 7
+
+
+##Otoño 2015
+
+###Lista de materias
+* Programación actuarial II 8
+* Demografía 9
+* Ecuaciones diferenciales I 8
+
+##Primavera 2016
+
+###Lista de materias
+* Matematicas Actuariales 6
+* DHTIC 10
+* Lengua Extranjera III 9
+*Cal. Difere. en Var. Variables 10
+* Probabilidad I 6
+
+
+
